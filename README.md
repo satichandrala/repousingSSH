@@ -1,4 +1,4 @@
-# repousingSSH
+# How to create a repo using SSH
 
 This repo is created using ssh key.
 
